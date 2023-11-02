@@ -24,10 +24,14 @@ Z en su estado original
 3. Igualdad: Dos tetrominós son iguales si lucen iguales en su rotación actual. Por ejemplo, una Z
 en su estado original es igual a una Z en la rotación 2.
 4. Semejanza: Dos tetrominós son semejantes si lucen iguales en al menos una de sus rotaciones.
-Adaptación al cambio
+
+Adaptación al cambio:
+
 El mecanismo de representación es muy probable que cambie. Diseñe el sistema para que se
 pueda cambiar fácilmente a un mecanismo diferente.
 Luego implemente el mecanismo de representación para que, en vez de imprimir por consola,
 genere un archivo con el estado actual de un tetrominó.
-Pruebas
+
+Pruebas:
+
 Debe realizar pruebas unitarias para verificar las funcionalidades implementadas.
